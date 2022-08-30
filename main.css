@@ -1,0 +1,36 @@
+.bread {
+    color: rgb(202, 141, 100);
+}
+
+.bacon {
+    color: rgb(139, 56, 17);
+}
+
+.cheese {
+    color: yellow;
+}
+
+.sand {
+    color: rgb(202, 171, 84);
+}
+
+.link {
+    text-decoration: none;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.bed {
+    color: white;
+    font-size: 20px;
+}
+
+.text {
+    color: white;
+    font-family: 'Gloria Hallelujah';
+}
+
+.congr {
+    font-family: 'Gloria Hallelujah'
+}
